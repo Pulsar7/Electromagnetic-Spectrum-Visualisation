@@ -27,7 +27,7 @@ def calculate(max_number):
 	    	wellenlänge = float(row[1])
 	    	frequenz = (c / (wellenlänge/1000000000))
 	    	energie = (h_evs * frequenz)
-	    	print(energie)
+	    	print(f'{energie}')
 	    	data['wellenlänge']['elements'].append(wellenlänge)
 	    	data['energie']['elements'].append(energie)
 	    	data['frequenz']['elements'].append(frequenz)
