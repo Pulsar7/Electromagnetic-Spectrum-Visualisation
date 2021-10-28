@@ -6,8 +6,8 @@ import os,csv
 import matplotlib.pyplot as plt
 
 def calculate(max_number):
+	dateipfad = "daten.csv"
 	data = {
-		'dateipfad': "daten.csv",
 		'wellenlänge': {
 			'elements': [],
 			'text': "Wellenlänge in nm"
@@ -21,24 +21,26 @@ def calculate(max_number):
 			'text': "Frequenz in Hz"
 		},
 	}
-	with open(data['dateipfad'], 'r') as r:
+	with open(dateipfad, 'r') as r:
 	    reader = csv.reader(r)
 	    for row in reader:
 	    	wellenlänge = float(row[1])
 	    	frequenz = (c / (wellenlänge/1000000000))
 	    	energie = (h_evs * frequenz)
-	    	print(f'{energie}')
 	    	data['wellenlänge']['elements'].append(wellenlänge)
 	    	data['energie']['elements'].append(energie)
 	    	data['frequenz']['elements'].append(frequenz)
+	for element in data:
+		print(f'\n{data[element]["text"]}')
+		print(f'{data[element]["elements"]}')
 	draw(data)
 
 def draw(data):
 	(fig, (ax1, ax2)) = plt.subplots(2, 1)	
 	ax1.set(
 		xlabel=data['wellenlänge']['text'],
-		ylabel=data['energie']['text']
-		#title='Photonenenergien'
+		ylabel=data['energie']['text'],
+		title='Untersuchung des elektromagnetischen Spektrums'
 	)
 	ax1.grid()
 	ax1.plot(data['wellenlänge']['elements'], 
