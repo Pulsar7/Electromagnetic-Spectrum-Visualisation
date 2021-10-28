@@ -3,10 +3,10 @@
 Anhand des Moduls *matplotlib* sollen die Daten des elektromagnetischen Spektrums dargestellt werden.
 Diese sind:
     
-   **Frequenz (in Hz), 
+   **Frequenz (in Hz)**
     
-   **Energie (in eV), 
+   **Energie (in eV)**
     
-   **Wellenlänge (in nm)
+   **Wellenlänge (in nm)**
 
 **Die Daten wurden aus dieser Quelle erhoben:*** https://www.mpifr-bonn.mpg.de/563197/einteilung
