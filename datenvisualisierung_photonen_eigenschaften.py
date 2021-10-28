@@ -1,3 +1,7 @@
+# Autor: Benedikt Fichtner
+# Github: https://github.com/Pulsar7/
+# Python-Version: Python 3.8.10
+
 import os,csv
 import matplotlib.pyplot as plt
 
