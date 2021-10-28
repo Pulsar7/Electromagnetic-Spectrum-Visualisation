@@ -9,7 +9,7 @@ Diese sind:
     
    **Wellenlänge (in nm)**
 
-**Die Daten wurden aus dieser Quelle erhoben:*** https://www.mpifr-bonn.mpg.de/563197/einteilung
+**Die Daten wurden aus dieser Quelle erhoben:** https://www.mpifr-bonn.mpg.de/563197/einteilung
 
 
 # Installation
