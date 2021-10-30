@@ -13,5 +13,7 @@ Diese sind:
 # Installation
 
     pip3 install matplotlib
+    pip3 install python-csv
 
 (https://pypi.org/project/matplotlib/)
+
