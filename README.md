@@ -11,7 +11,7 @@ Diese sind:
 
 Zusätzlich werden die berechneten Daten in eine ".csv"-Datei gespeichert.
 
-**Die Daten wurden aus dieser Quelle erhoben:** 
+**Die Daten wurden aus diesen Quellen erhoben:** 
     
    -> https://www.mpifr-bonn.mpg.de/563197/einteilung
    
