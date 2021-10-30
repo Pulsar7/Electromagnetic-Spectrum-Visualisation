@@ -17,7 +17,7 @@ Zusätzlich werden die berechneten Daten in eine ".csv"-Datei gespeichert.
    
    -> https://www.ulfkonrad.de/physik/12-13/2-semester/elektromag-spektrum
 
-# Installation
+# Requirements
 
     pip3 install matplotlib
     pip3 install python-csv
