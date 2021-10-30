@@ -1,4 +1,4 @@
-# Datenvisualisierung-Elektromagnetischen-Spektrum
+# Datenvisualisierung des elektromagnetischen Spektrums
 
 Anhand des Moduls *matplotlib* sollen die Daten des elektromagnetischen Spektrums dargestellt werden.
 Diese sind:
