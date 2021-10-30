@@ -1,7 +1,6 @@
 # Datenvisualisierung des elektromagnetischen Spektrums
 
-Anhand des Moduls *matplotlib* sollen die Daten des elektromagnetischen Spektrums dargestellt werden.
-Diese sind:
+Anhand des Moduls *matplotlib* sollen die folgenden Daten des elektromagnetischen Spektrums dargestellt werden:
     
    **→ Frequenz (in Hz)**
    
