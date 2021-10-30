@@ -5,6 +5,8 @@ Diese sind:
     
    **Frequenz (in Hz), Energie (in eV), Wellenlänge (in nm)**
 
+Zusätzlich werden die berechneten Daten in eine ".csv"-Datei gespeichert.
+
 **Die Daten wurden aus dieser Quelle erhoben:** 
     
     https://www.mpifr-bonn.mpg.de/563197/einteilung
