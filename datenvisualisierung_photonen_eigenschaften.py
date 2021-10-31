@@ -10,10 +10,12 @@ data = {
 		'elements': [],
 		'text': "Wellenlänge in nm"
 	},
+	
 	'energie': {
 		'elements': [],
 		'text': "Energie in eV"
 	},
+	
 	'frequenz': {
 		'elements': [],
 		'text': "Frequenz in Hz"
