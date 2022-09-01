@@ -32,8 +32,9 @@
     python3 electromagnetic_spectrum_visualisation.py --min 0.1 --step 0.1 --max 1
     
 
-*Output:*
+**Output:**
 
+![GitHub-Output-Example](github_output_example.png)
 
 
 ## ToDo
