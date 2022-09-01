@@ -14,6 +14,7 @@
 
 ## Explanation
 
+Frequencies in the specified interval (e.g.: 0.1 to 1 Hz) are used to calculate information about these electromagnetic waves. These include: wavelength and energy.
 
 ## Installation
 
