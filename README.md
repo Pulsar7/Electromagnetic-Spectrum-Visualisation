@@ -21,7 +21,7 @@
     
     sudo apt install git
     git clone https://github.com/Pulsar7/Electromagnetic-Spectrum-Visualisation.git
-    pip3 install rich
+    pip3 install rich matplotlib
     
 :small_orange_diamond: **Asking for help**
 
