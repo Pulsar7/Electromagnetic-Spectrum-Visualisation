@@ -29,8 +29,7 @@
 
 ## ToDo
 
-- [ ] Add 3-Dimensional vectors
-- [ ] Add hashlib
+- [ ] Add Animations
 
 ## Suggestions & Reports
 
