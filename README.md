@@ -20,7 +20,7 @@
 :small_orange_diamond: **Download Repository & Requirements**
     
     sudo apt install git
-    git clone https://github.com/Pulsar7/A.M.M.E.git
+    git clone https://github.com/Pulsar7/Electromagnetic-Spectrum-Visualisation.git
     pip3 install rich
     
 :small_orange_diamond: **Asking for help**
