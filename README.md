@@ -34,10 +34,8 @@
 
 **Output:**
 
-<div style="border-radius: 10px;">
-    <img src="https://github.com/Pulsar7/Electromagnetic-Spectrum-Visualisation/blob/main/github_output_example.png">
-</div>
-
+![](https://github.com/Pulsar7/Electromagnetic-Spectrum-Visualisation/blob/main/github_output_example.png)
+    
 ## ToDo
 
 - [ ] Add Animations
