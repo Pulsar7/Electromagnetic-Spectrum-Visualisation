@@ -8,11 +8,11 @@
 
 * :point_right: [Explanation](#explanation)
 * :point_right: [Installation](#installation)
+* :point_right: [Example](#example)
 * :point_right: [ToDo](#todo)
 * :point_right: [Suggestions & Reports](#suggestions--reports)
 
 ## Explanation
-
 
 
 ## Installation
@@ -26,6 +26,15 @@
 :small_orange_diamond: **Asking for help**
 
     python3 electromagnetic_spectrum_visualisation.py --help
+
+## Example
+
+    python3 electromagnetic_spectrum_visualisation.py --min 0.1 --step 0.1 --max 1
+    
+
+*Output:*
+
+
 
 ## ToDo
 
