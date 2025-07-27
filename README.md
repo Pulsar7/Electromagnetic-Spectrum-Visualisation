@@ -40,7 +40,3 @@ Frequencies in the specified interval (e.g.: 0.1 to 1 Hz) are used to calculate 
 ## ToDo
 
 - [ ] Add Animations
-
-## Suggestions & Reports
-
-Suggestions or errors are welcome to be [:link: reported](https://github.com/Pulsar7/Electromagnetic-Spectrum-Visualisation/issues)!
